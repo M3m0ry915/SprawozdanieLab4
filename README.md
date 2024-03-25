@@ -11,6 +11,6 @@
    nano ports.conf
 I tutaj należy właśnie wykonać zmianę z Listen80 na Listen 8080
 5. Po wykonaniu punktu 4 należy zrestartować serwer tym poleceniem:
-   ervice apache2 restart
+ervice apache2 restart
 6. Po zrestartowaniu uruchamiamy od nowa kontener tym poleceniem:
-   docker start 'CONTAINER ID'
+docker start 'CONTAINER ID'
