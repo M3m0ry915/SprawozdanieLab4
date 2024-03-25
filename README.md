@@ -9,7 +9,7 @@
    2. cd etc
    3. cd apache2
    4. nano ports.conf
-I tutaj należy właśnie wykonać zmianę z Listen80 na Listen 8080
+   5. I tutaj należy właśnie wykonać zmianę z Listen80 na Listen 8080
 6. Po wykonaniu punktu 4 należy zrestartować serwer tym poleceniem:
 service apache2 restart
 7. Po zrestartowaniu uruchamiamy od nowa kontener tym poleceniem:
